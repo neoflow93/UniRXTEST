@@ -24,7 +24,7 @@ public class ReactivePropertySample : MonoBehaviour
 {
     public Enemy ememy_ = null;
     public FruitReactiveProperty fp_2;
-    public FruitReactiveProperty fp_3;
+    public FruitReactiveProperty fp_4;
 
     public Button fire_gun;
     public Text ememy_hp;
