@@ -23,7 +23,7 @@ public class Enemy// : ReactiveProperty<long>
 public class ReactivePropertySample : MonoBehaviour
 {
     public Enemy ememy_ = null;
-    //public FruitReactiveProperty fp_;
+    public FruitReactiveProperty fp_;
 
     public Button fire_gun;
     public Text ememy_hp;
